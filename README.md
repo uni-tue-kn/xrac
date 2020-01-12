@@ -10,12 +10,12 @@ Contents of this repository:
   * 802.1X CA (in folder `xrac-ca`)
 * Configuration files for the 802.1X AS (in folder `xrac-as`).
 
+---
+
 Please be aware of the **following legal conditions**:
 
-```
-(1) We hereby prohibit any commercial usage of the contents provided with this repository. Please note, that the functionality of this prototypical implementation of xRAC is part of an ongoing patent application process.
+We hereby prohibit any commercial usage of the contents provided with this repository. Please note, that the functionality of this prototypical implementation of xRAC is part of an ongoing patent application process.
 
-(2) The software and configuration examples are provided "as is" without any warranty of any kind.
+The software and configuration examples are provided "as is" without any warranty of any kind.
 
 Copyright (c) 2020 University of Tuebingen, Faculty of Science, Department of Computer Science, Chair of Communication Networks.
-```
