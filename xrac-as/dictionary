@@ -1,0 +1,5 @@
+VENDOR        EAPoUDP                   50000
+BEGIN-VENDOR  EAPoUDP
+ATTRIBUTE     EAPoUDP-image-id          1       string
+ATTRIBUTE     EAPoUDP-allowed-ips       2       string
+END-VENDOR    EAPoUDP

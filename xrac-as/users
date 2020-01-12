@@ -1,0 +1,15 @@
+testing Cleartext-Password := "password"
+	EAPoUDP-allowed-ips = "2001:db8::bb:0"
+
+# Defaults from original users file
+
+DEFAULT	Framed-Protocol == PPP
+	Framed-Protocol = PPP,
+	Framed-Compression = Van-Jacobson-TCP-IP
+
+DEFAULT	Hint == "CSLIP"
+	Framed-Protocol = SLIP,
+	Framed-Compression = Van-Jacobson-TCP-IP
+
+DEFAULT	Hint == "SLIP"
+	Framed-Protocol = SLIP
